@@ -6,7 +6,7 @@
 * *E-mail:* maksim_liubinski@epam.com
 * *LinkedIn:* https://www.linkedin.com/in/maksim-liubinski/
 * *GitHub:* https://github.com/MaximLiubinski/
-* *Discord* MaksimL (@MaximLiubinski)
+* *Discord:* MaksimL(@MaximLiubinski)
 
 # About Me
 
