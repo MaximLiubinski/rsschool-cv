@@ -1,2 +1,2 @@
-# rsschool-cv
-https://MaximLiubinski.github.io/rsschool-cv/cv
+# CV#1 Markdown & Git
+https://maximliubinski.github.io/rsschool-cv/cv
