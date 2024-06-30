@@ -6,11 +6,12 @@
 * *E-mail:* maksim_liubinski@epam.com
 * *LinkedIn:* https://www.linkedin.com/in/maksim-liubinski/
 * *GitHub:* https://github.com/MaximLiubinski/
+* *Discord* MaksimL (@MaximLiubinski)
 
 # About Me
 
-I'm working as Test Automation Engineer in Javascript and Typecscript for the last 5 years. 
-Decided to join Rolling Scopes School courses to be more familiar with frontend development
+I've been working as a Test Automation Engineer in Javascript and Typecscript for the last 5 years. 
+Decided to join Rolling Scopes School courses to be more familiar with frontend development.
 
 # TechSkills
 
